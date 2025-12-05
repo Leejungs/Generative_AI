@@ -27,8 +27,7 @@
 <br/>
 
 ## 개발 도구 / 프레임워크
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 ## 외부 라이브러리
 [PyMuPDF](https://github.com/pymupdf/PyMuPDF) - pdf 정보 추출 위해 사용 <br/>
