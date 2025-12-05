@@ -37,8 +37,11 @@
 ```bash
 python -m venv .venv
 source .venv/bin/activate       # Windows → .venv\Scripts\activate
-
-
+```
+### 2) 패키지 설치
+```bash
+pip install -r requirements.txt
+```
 📦 pdf-summary-toc
  ┣ 📂 outputs
  ┃ ┣ summary.txt
