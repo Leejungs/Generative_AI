@@ -42,6 +42,8 @@ source .venv/bin/activate       # Windows → .venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+
+
 📦 pdf-summary-toc
  ┣ 📂 outputs
  ┃ ┣ summary.txt
