@@ -43,6 +43,7 @@ source .venv/bin/activate       # Windows → .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### 3)📁 프로젝트 구조 (예시)
 ```bash
 📦 pdf-summary-toc
  ┣ 📂 outputs
