@@ -37,3 +37,17 @@
 ```bash
 python -m venv .venv
 source .venv/bin/activate       # Windows → .venv\Scripts\activate
+
+
+📦 pdf-summary-toc
+ ┣ 📂 outputs
+ ┃ ┣ summary.txt
+ ┃ ┗ toc.txt
+ ┣ 📂 src
+ ┃ ┣ extractor.py
+ ┃ ┣ summarizer.py
+ ┃ ┣ toc_generator.py
+ ┃ ┗ utils.py
+ ┣ main.py
+ ┣ requirements.txt
+ ┗ README.md
