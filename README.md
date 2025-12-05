@@ -1,4 +1,4 @@
-# WriteNow - 필기 및 문서 요약 서비스 
+#<img width="162" height="151" alt="dsadsa-removebg-preview" src="https://github.com/user-attachments/assets/7e33554c-31a9-4692-9ff2-2d8c55486563" /> WriteNow - 필기 및 문서 요약 서비스 
 ----------
 ## 프로젝트 배경 및 소개
 >노트 대신 디지털 기기... 대학 강의실 필기 문화 바뀌었다 <br/>
